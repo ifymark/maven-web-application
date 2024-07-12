@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>okoye</finalName>
 		
 		<plugins>
 			<plugin>
